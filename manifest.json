@@ -1,13 +1,19 @@
 {
   "background_color": "#ffffff",
   "dir": "ltr",
-  "display": "standalone",
-  "name": "Your SG",
-  "orientation": "any",
+  "display": "fullscreen",
+  "name": "That SG",
+  "orientation": "natural",
   "scope": "/",
   "short_name": "SGirl",
-  "start_url": "/",
+  "start_url": "/https://soulbinderrr.github.io/thatschoolgirl/",
   "theme_color": "#ffffff",
-  "id": "Yourschoolgirlfriend",
-  "description": "Adventure"
+  "id": "ThatSchoolGirl",
+  "description": "Adventure",
+  "lang": "ru",
+  "prefer_related_applications": false,
+  "categories": [
+    "games"
+  ],
+  "iarc_rating_id": "PG-13"
 }
